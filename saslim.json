@@ -44,38 +44,7 @@
                   "width": 2560,
                   "height": 1440
                 },
-                "resolutions": [
-                  {
-                    "url": "https://i.redditmedia.com/9nUuMpAVXQ2CN2s71VPJZdUFI4qAwsY6uDTMmBO8LPQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=a81a395328209db1b197dea52855c360",
-                    "width": 108,
-                    "height": 60
-                  },
-                  {
-                    "url": "https://i.redditmedia.com/9nUuMpAVXQ2CN2s71VPJZdUFI4qAwsY6uDTMmBO8LPQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=5b7f4a1f6128d32327594ee15e73c11b",
-                    "width": 216,
-                    "height": 121
-                  },
-                  {
-                    "url": "https://i.redditmedia.com/9nUuMpAVXQ2CN2s71VPJZdUFI4qAwsY6uDTMmBO8LPQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=0fcdf64e58c88256d315b2fcf411acb3",
-                    "width": 320,
-                    "height": 180
-                  },
-                  {
-                    "url": "https://i.redditmedia.com/9nUuMpAVXQ2CN2s71VPJZdUFI4qAwsY6uDTMmBO8LPQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=efdf142b54482c4a2f16d7c1448b6243",
-                    "width": 640,
-                    "height": 360
-                  },
-                  {
-                    "url": "https://i.redditmedia.com/9nUuMpAVXQ2CN2s71VPJZdUFI4qAwsY6uDTMmBO8LPQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=7ef421dcfbdbb929b6ef9937ab9f7d8a",
-                    "width": 960,
-                    "height": 540
-                  },
-                  {
-                    "url": "https://i.redditmedia.com/9nUuMpAVXQ2CN2s71VPJZdUFI4qAwsY6uDTMmBO8LPQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;s=ace9ff493301c8524bd6166915e85aee",
-                    "width": 1080,
-                    "height": 607
-                  }
-                ],
+                
                 "variants": {},
                 "id": "xCeLWA0-8gPGLmJNHXtoFFl8fs9MSIssPzMTifvJmLY"
               }
