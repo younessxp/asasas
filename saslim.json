@@ -3080,49 +3080,7 @@
           "distinguished": null
         }
       },
-	
-	{
-
-          "thumbnail": "http://dailyiphoneblog.com/wp-content/uploads/2011/09/ipad3-wallpapers-42.jpg",
-          "subreddit_id": "t5_2qhw4",
-          "edited": false,
-          "link_flair_css_class": null,
-          "author_flair_css_class": null,
-          "contest_mode": false,
-          "gilded": 0,
-          "downs": 0,
-          "brand_safe": true,
-          "secure_media_embed": {},
-          "removal_reason": null,
-          "post_hint": "link",
-          "author_flair_text": null,
-          "stickied": false,
-          "can_gild": false,
-          "thumbnail_height": 30,
-          "parent_whitelist_status": "all_ads",
-          "name": "t3_74v7gl",
-          "spoiler": false,
-          "permalink": "/r/wallpapers/comments/74v7gl/ultrawide_panoramic_view_of_trans_alpina_romania/",
-          "subreddit_type": "public",
-          "locked": false,
-          "hide_score": false,
-          "created": 1507415935,
-          "url": "http://dailyiphoneblog.com/wp-content/uploads/2011/09/ipad3-wallpapers-42.jpg",
-          "whitelist_status": "all_ads",
-          "quarantine": false,
-          "author": "blaxphoenix",
-          "created_utc": 1507387135,
-          "subreddit_name_prefixed": "r/wallpapers",
-          "ups": 3,
-          "media": null,
-          "num_comments": 1,
-          "is_self": false,
-          "visited": false,
-          "num_reports": null,
-          "is_video": false,
-          "distinguished": null
-        }
-      }
+         
     ],
     "after": "t3_74v7gl",
     "before": null
